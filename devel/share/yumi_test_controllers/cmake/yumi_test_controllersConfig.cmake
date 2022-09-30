@@ -1,0 +1,1 @@
+/home/ziye01/xhAbb/devel/.private/yumi_test_controllers/share/yumi_test_controllers/cmake/yumi_test_controllersConfig.cmake

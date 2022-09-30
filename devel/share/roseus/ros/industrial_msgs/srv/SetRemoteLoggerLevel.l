@@ -1,0 +1,1 @@
+/home/ziye01/xhAbb/devel/.private/industrial_msgs/share/roseus/ros/industrial_msgs/srv/SetRemoteLoggerLevel.l

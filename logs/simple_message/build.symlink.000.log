@@ -1,0 +1,7 @@
+Symlinking /home/ziye01/xhAbb/devel/share/simple_message/cmake/simple_messageConfig-version.cmake
+Symlinking /home/ziye01/xhAbb/devel/share/simple_message/cmake/simple_messageConfig.cmake
+Symlinking /home/ziye01/xhAbb/devel/lib/libsimple_message.so
+Symlinking /home/ziye01/xhAbb/devel/lib/libsimple_message_dummy.so
+Symlinking /home/ziye01/xhAbb/devel/lib/libsimple_message_float64.so
+Symlinking /home/ziye01/xhAbb/devel/lib/libsimple_message_bswap.so
+Symlinking /home/ziye01/xhAbb/devel/lib/pkgconfig/simple_message.pc

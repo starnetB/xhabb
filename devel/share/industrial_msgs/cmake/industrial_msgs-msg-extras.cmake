@@ -1,0 +1,1 @@
+/home/ziye01/xhAbb/devel/.private/industrial_msgs/share/industrial_msgs/cmake/industrial_msgs-msg-extras.cmake

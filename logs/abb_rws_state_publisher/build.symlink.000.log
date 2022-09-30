@@ -1,0 +1,5 @@
+Symlinking /home/ziye01/xhAbb/devel/share/abb_rws_state_publisher/cmake/abb_rws_state_publisherConfig.cmake
+Symlinking /home/ziye01/xhAbb/devel/share/abb_rws_state_publisher/cmake/abb_rws_state_publisherConfig-version.cmake
+Symlinking /home/ziye01/xhAbb/devel/lib/libabb_rws_state_publisher.so
+Symlinking /home/ziye01/xhAbb/devel/lib/abb_rws_state_publisher/rws_state_publisher
+Symlinking /home/ziye01/xhAbb/devel/lib/pkgconfig/abb_rws_state_publisher.pc

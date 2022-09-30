@@ -1,0 +1,1 @@
+/home/ziye01/xhAbb/devel/.private/industrial_robot_simulator/lib/pkgconfig/industrial_robot_simulator.pc

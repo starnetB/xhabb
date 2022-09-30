@@ -1,0 +1,44 @@
+[35m[1mScanning dependencies of target yumi_hw[0m
+[  7%] [32mBuilding CXX object CMakeFiles/yumi_hw.dir/src/yumi_hw.cpp.o[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/yumi_hw.dir/src/yumi_hw_rws.cpp.o[0m
+[ 21%] [32m[1mLinking CXX shared library /home/ziye01/xhAbb/devel/.private/yumi_hw/lib/libyumi_hw.so[0m
+[ 21%] Built target yumi_hw
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[ 21%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _yumi_hw_generate_messages_check_deps_YumiGrasp[0m
+[ 21%] Built target _yumi_hw_generate_messages_check_deps_YumiGrasp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[ 21%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[ 21%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target yumi_hw_ifce_node[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[ 21%] Built target std_msgs_generate_messages_lisp
+[ 28%] [32mBuilding CXX object CMakeFiles/yumi_hw_ifce_node.dir/src/yumi_hw_ifce_node.cpp.o[0m
+[35m[1mScanning dependencies of target yumi_hw_generate_messages_cpp[0m
+[ 28%] Built target std_msgs_generate_messages_nodejs
+[ 35%] [34m[1mGenerating C++ code from yumi_hw/YumiGrasp.srv[0m
+[35m[1mScanning dependencies of target yumi_hw_generate_messages_py[0m
+[ 42%] [34m[1mGenerating Python code from SRV yumi_hw/YumiGrasp[0m
+[ 50%] [34m[1mGenerating Python srv __init__.py for yumi_hw[0m
+[ 50%] Built target yumi_hw_generate_messages_cpp
+[ 50%] Built target yumi_hw_generate_messages_py
+[35m[1mScanning dependencies of target yumi_hw_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target yumi_hw_generate_messages_eus[0m
+[ 57%] [34m[1mGenerating Lisp code from yumi_hw/YumiGrasp.srv[0m
+[ 64%] [34m[1mGenerating EusLisp code from yumi_hw/YumiGrasp.srv[0m
+[ 64%] Built target yumi_hw_generate_messages_lisp
+[35m[1mScanning dependencies of target yumi_hw_generate_messages_nodejs[0m
+[ 71%] [34m[1mGenerating EusLisp manifest code for yumi_hw[0m
+[ 78%] [34m[1mGenerating Javascript code from yumi_hw/YumiGrasp.srv[0m
+[ 78%] Built target yumi_hw_generate_messages_nodejs
+[35m[1mScanning dependencies of target yumi_gripper_node[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/yumi_gripper_node.dir/src/yumi_gripper_node.cpp.o[0m
+[ 85%] Built target yumi_hw_generate_messages_eus
+[35m[1mScanning dependencies of target yumi_hw_generate_messages[0m
+[ 85%] Built target yumi_hw_generate_messages
+[ 92%] [32m[1mLinking CXX executable /home/ziye01/xhAbb/devel/.private/yumi_hw/lib/yumi_hw/yumi_gripper_node[0m
+[ 92%] Built target yumi_gripper_node
+[100%] [32m[1mLinking CXX executable /home/ziye01/xhAbb/devel/.private/yumi_hw/lib/yumi_hw/yumi_hw_ifce_node[0m
+[100%] Built target yumi_hw_ifce_node

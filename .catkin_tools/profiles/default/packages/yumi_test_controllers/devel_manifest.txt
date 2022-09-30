@@ -1,0 +1,7 @@
+yumi/yumi_test_controllers
+/home/ziye01/xhAbb/devel/.private/yumi_test_controllers/cmake.lock /home/ziye01/xhAbb/devel/./cmake.lock
+/home/ziye01/xhAbb/devel/.private/yumi_test_controllers/share/yumi_test_controllers/cmake/yumi_test_controllersConfig.cmake /home/ziye01/xhAbb/devel/share/yumi_test_controllers/cmake/yumi_test_controllersConfig.cmake
+/home/ziye01/xhAbb/devel/.private/yumi_test_controllers/share/yumi_test_controllers/cmake/yumi_test_controllersConfig-version.cmake /home/ziye01/xhAbb/devel/share/yumi_test_controllers/cmake/yumi_test_controllersConfig-version.cmake
+/home/ziye01/xhAbb/devel/.private/yumi_test_controllers/lib/pkgconfig/yumi_test_controllers.pc /home/ziye01/xhAbb/devel/lib/pkgconfig/yumi_test_controllers.pc
+/home/ziye01/xhAbb/devel/.private/yumi_test_controllers/lib/yumi_test_controllers/test_traj_vel_control /home/ziye01/xhAbb/devel/lib/yumi_test_controllers/test_traj_vel_control
+/home/ziye01/xhAbb/devel/.private/yumi_test_controllers/lib/yumi_test_controllers/test_vel_control /home/ziye01/xhAbb/devel/lib/yumi_test_controllers/test_vel_control

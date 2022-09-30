@@ -1,0 +1,2 @@
+industrial_core/industrial_core
+/home/ziye01/xhAbb/devel/.private/industrial_core/cmake.lock /home/ziye01/xhAbb/devel/./cmake.lock

@@ -1,0 +1,16 @@
+[35m[1mScanning dependencies of target abb_egm_hardware_interface_hardware_interface[0m
+[ 12%] [32mBuilding CXX object CMakeFiles/abb_egm_hardware_interface_hardware_interface.dir/src/egm_hardware_interface.cpp.o[0m
+[35m[1mScanning dependencies of target abb_egm_hardware_interface_controller_stopper[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/abb_egm_hardware_interface_controller_stopper.dir/src/egm_controller_stopper.cpp.o[0m
+[ 37%] [32m[1mLinking CXX shared library /home/ziye01/xhAbb/devel/.private/abb_egm_hardware_interface/lib/libabb_egm_hardware_interface_controller_stopper.so[0m
+[ 37%] Built target abb_egm_hardware_interface_controller_stopper
+[35m[1mScanning dependencies of target abb_egm_hardware_interface_controller_stopper_exe[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/abb_egm_hardware_interface_controller_stopper_exe.dir/src/egm_controller_stopper_main.cpp.o[0m
+[ 62%] [32m[1mLinking CXX shared library /home/ziye01/xhAbb/devel/.private/abb_egm_hardware_interface/lib/libabb_egm_hardware_interface_hardware_interface.so[0m
+[ 62%] Built target abb_egm_hardware_interface_hardware_interface
+[35m[1mScanning dependencies of target abb_egm_hardware_interface_hardware_interface_exe[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/abb_egm_hardware_interface_hardware_interface_exe.dir/src/egm_hardware_interface_main.cpp.o[0m
+[ 87%] [32m[1mLinking CXX executable /home/ziye01/xhAbb/devel/.private/abb_egm_hardware_interface/lib/abb_egm_hardware_interface/egm_controller_stopper[0m
+[ 87%] Built target abb_egm_hardware_interface_controller_stopper_exe
+[100%] [32m[1mLinking CXX executable /home/ziye01/xhAbb/devel/.private/abb_egm_hardware_interface/lib/abb_egm_hardware_interface/egm_hardware_interface[0m
+[100%] Built target abb_egm_hardware_interface_hardware_interface_exe

@@ -1,0 +1,1 @@
+/home/ziye01/xhAbb/devel/.private/simple_message/share/simple_message/cmake/simple_messageConfig-version.cmake

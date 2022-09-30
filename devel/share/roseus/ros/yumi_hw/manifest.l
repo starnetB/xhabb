@@ -1,0 +1,1 @@
+/home/ziye01/xhAbb/devel/.private/yumi_hw/share/roseus/ros/yumi_hw/manifest.l

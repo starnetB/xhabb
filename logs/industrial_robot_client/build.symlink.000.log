@@ -1,0 +1,14 @@
+Symlinking /home/ziye01/xhAbb/devel/share/industrial_robot_client/cmake/platform_build_flags.cmake
+Symlinking /home/ziye01/xhAbb/devel/share/industrial_robot_client/cmake/industrial_robot_clientConfig-version.cmake
+Symlinking /home/ziye01/xhAbb/devel/share/industrial_robot_client/cmake/industrial_robot_clientConfig.cmake
+Symlinking /home/ziye01/xhAbb/devel/lib/libindustrial_robot_client_dummy.so
+Symlinking /home/ziye01/xhAbb/devel/lib/libindustrial_robot_client.so
+Symlinking /home/ziye01/xhAbb/devel/lib/libindustrial_robot_client_bswap.so
+Symlinking /home/ziye01/xhAbb/devel/lib/industrial_robot_client/motion_download_interface
+Symlinking /home/ziye01/xhAbb/devel/lib/industrial_robot_client/motion_download_interface_bswap
+Symlinking /home/ziye01/xhAbb/devel/lib/industrial_robot_client/robot_state
+Symlinking /home/ziye01/xhAbb/devel/lib/industrial_robot_client/motion_streaming_interface_bswap
+Symlinking /home/ziye01/xhAbb/devel/lib/industrial_robot_client/robot_state_bswap
+Symlinking /home/ziye01/xhAbb/devel/lib/industrial_robot_client/motion_streaming_interface
+Symlinking /home/ziye01/xhAbb/devel/lib/industrial_robot_client/joint_trajectory_action
+Symlinking /home/ziye01/xhAbb/devel/lib/pkgconfig/industrial_robot_client.pc

@@ -1,0 +1,15 @@
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[ 21%] Built target yumi_hw
+[ 21%] Built target std_msgs_generate_messages_nodejs
+[ 28%] Built target _yumi_hw_generate_messages_check_deps_YumiGrasp
+[ 35%] Built target yumi_hw_ifce_node
+[ 42%] Built target yumi_hw_generate_messages_cpp
+[ 85%] Built target yumi_hw_generate_messages_lisp
+[ 85%] Built target yumi_hw_generate_messages_py
+[ 85%] Built target yumi_hw_generate_messages_nodejs
+[ 85%] Built target yumi_hw_generate_messages_eus
+[ 85%] Built target yumi_hw_generate_messages
+[100%] Built target yumi_gripper_node

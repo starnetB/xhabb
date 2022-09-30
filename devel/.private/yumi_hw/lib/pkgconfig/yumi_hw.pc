@@ -1,0 +1,8 @@
+prefix=/home/ziye01/xhAbb/devel/.private/yumi_hw
+
+Name: yumi_hw
+Description: Description of yumi_hw
+Version: 0.0.4
+Cflags: -I/home/ziye01/xhAbb/devel/.private/yumi_hw/include -I/home/ziye01/xhAbb/src/yumi_ros/yumi_hw/include
+Libs: -L${prefix}/lib -lyumi_hw
+Requires: cmake_modules control_toolbox controller_interface controller_manager hardware_interface joint_limits_interface kdl_parser realtime_tools roscpp std_msgs tf transmission_interface urdf simple_message message_generation

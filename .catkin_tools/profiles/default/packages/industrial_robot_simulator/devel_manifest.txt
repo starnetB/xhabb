@@ -1,0 +1,7 @@
+industrial_core/industrial_robot_simulator
+/home/ziye01/xhAbb/devel/.private/industrial_robot_simulator/cmake.lock /home/ziye01/xhAbb/devel/./cmake.lock
+/home/ziye01/xhAbb/devel/.private/industrial_robot_simulator/share/industrial_robot_simulator/cmake/industrial_robot_simulatorConfig.cmake /home/ziye01/xhAbb/devel/share/industrial_robot_simulator/cmake/industrial_robot_simulatorConfig.cmake
+/home/ziye01/xhAbb/devel/.private/industrial_robot_simulator/share/industrial_robot_simulator/cmake/industrial_robot_simulatorConfig-version.cmake /home/ziye01/xhAbb/devel/share/industrial_robot_simulator/cmake/industrial_robot_simulatorConfig-version.cmake
+/home/ziye01/xhAbb/devel/.private/industrial_robot_simulator/lib/pkgconfig/industrial_robot_simulator.pc /home/ziye01/xhAbb/devel/lib/pkgconfig/industrial_robot_simulator.pc
+/home/ziye01/xhAbb/devel/.private/industrial_robot_simulator/lib/industrial_robot_simulator/cmake.lock /home/ziye01/xhAbb/devel/lib/industrial_robot_simulator/cmake.lock
+/home/ziye01/xhAbb/devel/.private/industrial_robot_simulator/lib/industrial_robot_simulator/industrial_robot_simulator /home/ziye01/xhAbb/devel/lib/industrial_robot_simulator/industrial_robot_simulator

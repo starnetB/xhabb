@@ -1,0 +1,1 @@
+/home/ziye01/xhAbb/devel/.private/yumi_launch/share/yumi_launch/cmake/yumi_launchConfig.cmake

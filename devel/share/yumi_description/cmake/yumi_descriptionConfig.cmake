@@ -1,0 +1,1 @@
+/home/ziye01/xhAbb/devel/.private/yumi_description/share/yumi_description/cmake/yumi_descriptionConfig.cmake

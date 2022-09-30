@@ -1,0 +1,1 @@
+/home/ziye01/xhAbb/devel/.private/yumi_motion_api/share/yumi_motion_api/cmake/yumi_motion_apiConfig.cmake

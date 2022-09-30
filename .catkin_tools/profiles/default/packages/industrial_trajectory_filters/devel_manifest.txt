@@ -1,0 +1,6 @@
+industrial_core/industrial_trajectory_filters
+/home/ziye01/xhAbb/devel/.private/industrial_trajectory_filters/cmake.lock /home/ziye01/xhAbb/devel/./cmake.lock
+/home/ziye01/xhAbb/devel/.private/industrial_trajectory_filters/share/industrial_trajectory_filters/cmake/industrial_trajectory_filtersConfig-version.cmake /home/ziye01/xhAbb/devel/share/industrial_trajectory_filters/cmake/industrial_trajectory_filtersConfig-version.cmake
+/home/ziye01/xhAbb/devel/.private/industrial_trajectory_filters/share/industrial_trajectory_filters/cmake/industrial_trajectory_filtersConfig.cmake /home/ziye01/xhAbb/devel/share/industrial_trajectory_filters/cmake/industrial_trajectory_filtersConfig.cmake
+/home/ziye01/xhAbb/devel/.private/industrial_trajectory_filters/lib/libindustrial_trajectory_filters.so /home/ziye01/xhAbb/devel/lib/libindustrial_trajectory_filters.so
+/home/ziye01/xhAbb/devel/.private/industrial_trajectory_filters/lib/pkgconfig/industrial_trajectory_filters.pc /home/ziye01/xhAbb/devel/lib/pkgconfig/industrial_trajectory_filters.pc

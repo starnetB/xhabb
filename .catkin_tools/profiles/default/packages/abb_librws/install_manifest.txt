@@ -1,0 +1,16 @@
+/home/ziye01/xhAbb/devel/include/abb_librws/rws_cfg.h
+/home/ziye01/xhAbb/devel/include/abb_librws/rws_common.h
+/home/ziye01/xhAbb/devel/include/abb_librws/rws_rapid.h
+/home/ziye01/xhAbb/devel/include/abb_librws/rws_poco_client.h
+/home/ziye01/xhAbb/devel/include/abb_librws/rws_state_machine_interface.h
+/home/ziye01/xhAbb/devel/include/abb_librws/rws_client.h
+/home/ziye01/xhAbb/devel/include/abb_librws/rws_interface.h
+/home/ziye01/xhAbb/devel/include/abb_librws/abb_librws_export.h
+/home/ziye01/xhAbb/devel/share/abb_librws/cmake/README.md
+/home/ziye01/xhAbb/devel/share/abb_librws/cmake/FindPoco.cmake
+/home/ziye01/xhAbb/devel/lib/libabb_librws.so
+/home/ziye01/xhAbb/devel/share/abb_librws/abb_librwsConfig.cmake
+/home/ziye01/xhAbb/devel/share/abb_librws/abb_librwsConfigVersion.cmake
+/home/ziye01/xhAbb/devel/share/abb_librws/package.xml
+/home/ziye01/xhAbb/devel/share/abb_librws/abb_librwsTargets.cmake
+/home/ziye01/xhAbb/devel/share/abb_librws/abb_librwsTargets-noconfig.cmake

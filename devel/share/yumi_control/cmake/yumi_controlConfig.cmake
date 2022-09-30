@@ -1,0 +1,1 @@
+/home/ziye01/xhAbb/devel/.private/yumi_control/share/yumi_control/cmake/yumi_controlConfig.cmake

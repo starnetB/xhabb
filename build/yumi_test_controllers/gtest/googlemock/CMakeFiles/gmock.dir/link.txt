@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -O2 -g -DNDEBUG  -shared -Wl,-soname,libgmock.so -o ../lib/libgmock.so CMakeFiles/gmock.dir/src/gmock-all.cc.o  -Wl,-rpath,/home/ziye01/xhAbb/build/yumi_test_controllers/gtest/lib ../lib/libgtest.so -lpthread 

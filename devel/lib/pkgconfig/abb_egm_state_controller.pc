@@ -1,0 +1,1 @@
+/home/ziye01/xhAbb/devel/.private/abb_egm_state_controller/lib/pkgconfig/abb_egm_state_controller.pc

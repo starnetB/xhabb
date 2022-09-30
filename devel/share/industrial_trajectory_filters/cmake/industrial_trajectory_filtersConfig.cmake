@@ -1,0 +1,1 @@
+/home/ziye01/xhAbb/devel/.private/industrial_trajectory_filters/share/industrial_trajectory_filters/cmake/industrial_trajectory_filtersConfig.cmake

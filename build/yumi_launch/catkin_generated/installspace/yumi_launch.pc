@@ -1,0 +1,8 @@
+prefix=/home/ziye01/xhAbb/install
+
+Name: yumi_launch
+Description: Description of yumi_launch
+Version: 0.0.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

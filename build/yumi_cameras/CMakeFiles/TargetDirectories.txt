@@ -1,0 +1,2 @@
+/home/ziye01/xhAbb/build/yumi_cameras/CMakeFiles/rebuild_cache.dir
+/home/ziye01/xhAbb/build/yumi_cameras/CMakeFiles/edit_cache.dir

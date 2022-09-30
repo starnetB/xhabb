@@ -1,0 +1,5 @@
+yumi_ros/yumi_control
+/home/ziye01/xhAbb/devel/.private/yumi_control/cmake.lock /home/ziye01/xhAbb/devel/./cmake.lock
+/home/ziye01/xhAbb/devel/.private/yumi_control/share/yumi_control/cmake/yumi_controlConfig.cmake /home/ziye01/xhAbb/devel/share/yumi_control/cmake/yumi_controlConfig.cmake
+/home/ziye01/xhAbb/devel/.private/yumi_control/share/yumi_control/cmake/yumi_controlConfig-version.cmake /home/ziye01/xhAbb/devel/share/yumi_control/cmake/yumi_controlConfig-version.cmake
+/home/ziye01/xhAbb/devel/.private/yumi_control/lib/pkgconfig/yumi_control.pc /home/ziye01/xhAbb/devel/lib/pkgconfig/yumi_control.pc

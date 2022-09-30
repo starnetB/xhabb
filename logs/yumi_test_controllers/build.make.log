@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target test_traj_vel_control[0m
+[35m[1mScanning dependencies of target test_vel_control[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/test_vel_control.dir/src/test_vel_control.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/test_traj_vel_control.dir/src/test_traj_vel_control.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable /home/ziye01/xhAbb/devel/.private/yumi_test_controllers/lib/yumi_test_controllers/test_vel_control[0m
+[ 75%] Built target test_vel_control
+[100%] [32m[1mLinking CXX executable /home/ziye01/xhAbb/devel/.private/yumi_test_controllers/lib/yumi_test_controllers/test_traj_vel_control[0m
+[100%] Built target test_traj_vel_control

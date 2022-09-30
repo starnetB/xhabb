@@ -1,0 +1,1 @@
+/home/ziye01/xhAbb/devel/.private/yumi_hw/share/common-lisp/ros/yumi_hw/srv/yumi_hw-srv.asd

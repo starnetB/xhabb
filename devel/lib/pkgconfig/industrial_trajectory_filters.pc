@@ -1,0 +1,1 @@
+/home/ziye01/xhAbb/devel/.private/industrial_trajectory_filters/lib/pkgconfig/industrial_trajectory_filters.pc

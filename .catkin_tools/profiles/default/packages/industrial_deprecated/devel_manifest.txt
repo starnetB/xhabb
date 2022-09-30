@@ -1,0 +1,5 @@
+industrial_core/industrial_deprecated
+/home/ziye01/xhAbb/devel/.private/industrial_deprecated/cmake.lock /home/ziye01/xhAbb/devel/./cmake.lock
+/home/ziye01/xhAbb/devel/.private/industrial_deprecated/share/industrial_deprecated/cmake/industrial_deprecatedConfig-version.cmake /home/ziye01/xhAbb/devel/share/industrial_deprecated/cmake/industrial_deprecatedConfig-version.cmake
+/home/ziye01/xhAbb/devel/.private/industrial_deprecated/share/industrial_deprecated/cmake/industrial_deprecatedConfig.cmake /home/ziye01/xhAbb/devel/share/industrial_deprecated/cmake/industrial_deprecatedConfig.cmake
+/home/ziye01/xhAbb/devel/.private/industrial_deprecated/lib/pkgconfig/industrial_deprecated.pc /home/ziye01/xhAbb/devel/lib/pkgconfig/industrial_deprecated.pc

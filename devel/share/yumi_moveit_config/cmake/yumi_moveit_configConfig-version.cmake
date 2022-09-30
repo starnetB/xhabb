@@ -1,0 +1,1 @@
+/home/ziye01/xhAbb/devel/.private/yumi_moveit_config/share/yumi_moveit_config/cmake/yumi_moveit_configConfig-version.cmake

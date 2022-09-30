@@ -1,0 +1,4 @@
+[35m[1mScanning dependencies of target abb_egm_state_controller[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/abb_egm_state_controller.dir/src/egm_state_controller.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/ziye01/xhAbb/devel/.private/abb_egm_state_controller/lib/libabb_egm_state_controller.so[0m
+[100%] Built target abb_egm_state_controller
